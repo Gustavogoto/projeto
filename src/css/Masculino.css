@@ -1,0 +1,15 @@
+.conteiner{
+    background-color: aqua;
+}
+#texto{
+ text-align: center;
+}
+.opcao{
+  background-color: rgb(45, 144, 231);
+}
+#lista{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#lista-itens{
+    text-decoration: none;
+}

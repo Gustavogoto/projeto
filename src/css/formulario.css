@@ -1,0 +1,11 @@
+.formulario{
+    margin: 20px 10px 10px 20px;
+    border: 2px black;
+    display: flex;
+    text-align: center;
+
+}
+#formulario-titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
